@@ -49,7 +49,7 @@ This Python project consists of two classes that demonstrate numerical precision
 
    - Given `value` and `numberOfValues`, the average `averageClassical` can be calculated as follows:
 
-    ![AverageClassical](https://latex.codecogs.com/svg.image?averageClassical&space;=&space;\sum_{i=0}^{N-1}&space;x_i(1&plus;\delta_i))
+    ```![AverageClassical](https://latex.codecogs.com/svg.image?averageClassical&space;=&space;\sum_{i=0}^{N-1}&space;x_i(1&plus;\delta_i))```
 
 4. **Kahan Algorithm for Average**:
 
